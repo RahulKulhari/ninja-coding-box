@@ -1,7 +1,7 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-class Solution {
+class stringSimilarity {
 
     public static void main(String args[]) throws Exception {
     BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
